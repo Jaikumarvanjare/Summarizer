@@ -5,18 +5,17 @@ Summarizer is a lightweight **web app** that condenses long articles, blogs, or 
 ---
 
 ## 🚀 Features
-- 🔎 Paste or enter text / URL to summarize
-- 📌 Generates concise summaries (bullets or paragraph form)
-- 🌍 Multi-language support (optional if you’ve added it)
+- 🔎 Paste or enter URL to summarize
+- 📌 Generates concise summaries
 - ⚡ Fast, accurate, and simple to use
 - 💻 Clean and responsive web interface
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript *(or React / Vue / Angular if used)*
-- **Backend:** Node.js / Express *(if applicable)*
-- **APIs:** OpenAI / HuggingFace Transformers *(mention the one you used)*
+- **Frontend:** HTML, CSS, JavaScript *(React)* 
+- **Backend:** Node.js 
+- **APIs:** RapidAPI
 
 ---
 
@@ -24,7 +23,7 @@ Summarizer is a lightweight **web app** that condenses long articles, blogs, or 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/summarizer.git
+git clone https://github.com/Jaikumarvanjare/summarizer.git
 
 # Navigate into the project
 cd summarizer
